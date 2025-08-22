@@ -8,5 +8,6 @@
       "dest": "/index.html"
     }
   ],
+  "buildCommand": "vite build",
   "outputDirectory": "dist"
 }
